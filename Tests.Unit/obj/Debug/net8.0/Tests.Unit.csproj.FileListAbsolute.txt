@@ -1,0 +1,10 @@
+C:\DW\Work\PZBadProject\Tests.Unit\obj\Debug\net8.0\Tests.Unit.csproj.AssemblyReference.cache
+C:\DW\Work\PZBadProject\Tests.Unit\obj\Debug\net8.0\Tests.Unit.GeneratedMSBuildEditorConfig.editorconfig
+C:\DW\Work\PZBadProject\Tests.Unit\obj\Debug\net8.0\Tests.Unit.AssemblyInfoInputs.cache
+C:\DW\Work\PZBadProject\Tests.Unit\obj\Debug\net8.0\Tests.Unit.AssemblyInfo.cs
+C:\DW\Work\PZBadProject\Tests.Unit\obj\Debug\net8.0\Tests.Unit.csproj.CoreCompileInputs.cache
+C:\DW\Work\PZBadProject\Work\Tests.Unit\obj\Debug\net8.0\Tests.Unit.csproj.AssemblyReference.cache
+C:\DW\Work\PZBadProject\Work\Tests.Unit\obj\Debug\net8.0\Tests.Unit.GeneratedMSBuildEditorConfig.editorconfig
+C:\DW\Work\PZBadProject\Work\Tests.Unit\obj\Debug\net8.0\Tests.Unit.AssemblyInfoInputs.cache
+C:\DW\Work\PZBadProject\Work\Tests.Unit\obj\Debug\net8.0\Tests.Unit.AssemblyInfo.cs
+C:\DW\Work\PZBadProject\Work\Tests.Unit\obj\Debug\net8.0\Tests.Unit.csproj.CoreCompileInputs.cache

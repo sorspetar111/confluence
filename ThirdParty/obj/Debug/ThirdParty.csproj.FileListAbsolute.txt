@@ -1,0 +1,12 @@
+C:\DW\Work\PZBadProject\ThirdParty\bin\Debug\ThirdParty.dll
+C:\DW\Work\PZBadProject\ThirdParty\bin\Debug\ThirdParty.pdb
+C:\DW\Work\PZBadProject\ThirdParty\obj\Debug\ThirdParty.csproj.AssemblyReference.cache
+C:\DW\Work\PZBadProject\ThirdParty\obj\Debug\ThirdParty.csproj.CoreCompileInputs.cache
+C:\DW\Work\PZBadProject\ThirdParty\obj\Debug\ThirdParty.dll
+C:\DW\Work\PZBadProject\ThirdParty\obj\Debug\ThirdParty.pdb
+C:\DW\Work\PZBadProject\Work\ThirdParty\bin\Debug\ThirdParty.dll
+C:\DW\Work\PZBadProject\Work\ThirdParty\bin\Debug\ThirdParty.pdb
+C:\DW\Work\PZBadProject\Work\ThirdParty\obj\Debug\ThirdParty.csproj.AssemblyReference.cache
+C:\DW\Work\PZBadProject\Work\ThirdParty\obj\Debug\ThirdParty.csproj.CoreCompileInputs.cache
+C:\DW\Work\PZBadProject\Work\ThirdParty\obj\Debug\ThirdParty.dll
+C:\DW\Work\PZBadProject\Work\ThirdParty\obj\Debug\ThirdParty.pdb
